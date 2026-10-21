@@ -33,6 +33,39 @@
       "seller": "TBA",
       "sale": "TBA",
       "saleLabel": "Sale date not announced yet"
+    },
+    {
+      "id": "nctwish",
+      "name": "NCT WISH: INTO THE WISH: Face Our WISH",
+      "dates": "2027-02-13",
+      "label": "Feb 13, 2027",
+      "venue": "Smart Araneta Coliseum, QC",
+      "cat": "Concert",
+      "seller": "TBA",
+      "sale": "TBA",
+      "saleLabel": "Sale date not announced yet"
+    },
+    {
+      "id": "gilas-cebu-2027",
+      "name": "Gilas Pilipinas vs Jordan & Syria: FIBA World Cup 2027 Asian Qualifiers",
+      "dates": "2027-02-26|2027-03-01",
+      "label": "Feb 26 & Mar 1, 2027",
+      "venue": "SM Seaside Arena, Cebu City",
+      "cat": "Sports",
+      "seller": "TBA",
+      "sale": "TBA",
+      "saleLabel": "Sale date not announced yet"
+    },
+    {
+      "id": "sunsetblvd",
+      "name": "Sunset Boulevard (Philippine premiere)",
+      "dates": "2027-08-18|2027-09-12",
+      "label": "Aug 18 – Sep 12, 2027",
+      "venue": "Carlos P. Romulo Auditorium, RCBC Plaza, Makati",
+      "cat": "Family & Shows",
+      "seller": "TicketWorld",
+      "sale": "TBA",
+      "saleLabel": "Sale date not announced yet"
     }
   ]
 }
