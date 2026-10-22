@@ -19,9 +19,9 @@
       "label": "Apr 2, 2027",
       "venue": "Smart Araneta Coliseum, QC",
       "cat": "Concert",
-      "seller": "TBA",
-      "sale": "TBA",
-      "saleLabel": "Sale date not announced yet"
+      "seller": "TicketNet",
+      "sale": "2026-10-24",
+      "saleLabel": "General sale Oct 24, 10 AM"
     },
     {
       "id": "parkjinyoung",
@@ -53,17 +53,6 @@
       "venue": "SM Seaside Arena, Cebu City",
       "cat": "Sports",
       "seller": "TBA",
-      "sale": "TBA",
-      "saleLabel": "Sale date not announced yet"
-    },
-    {
-      "id": "sunsetblvd",
-      "name": "Sunset Boulevard (Philippine premiere)",
-      "dates": "2027-08-18|2027-09-12",
-      "label": "Aug 18 – Sep 12, 2027",
-      "venue": "Carlos P. Romulo Auditorium, RCBC Plaza, Makati",
-      "cat": "Family & Shows",
-      "seller": "TicketWorld",
       "sale": "TBA",
       "saleLabel": "Sale date not announced yet"
     }
