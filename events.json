@@ -1,38 +1,16 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "events": [
-    {
-      "id": "kehlani",
-      "name": "Kehlani: Kehlani World Tour",
-      "dates": "2027-02-15",
-      "label": "Feb 15, 2027",
-      "venue": "SM Mall of Asia Arena, Pasay",
-      "cat": "Concert",
-      "seller": "Ticketmaster",
-      "sale": "2026-10-24",
-      "saleLabel": "Artist presale Oct 21–22 · General sale Oct 24"
-    },
-    {
-      "id": "m2m",
-      "name": "M2M: two. Global Tour",
-      "dates": "2027-04-02",
-      "label": "Apr 2, 2027",
-      "venue": "Smart Araneta Coliseum, QC",
-      "cat": "Concert",
-      "seller": "TicketNet",
-      "sale": "2026-10-24",
-      "saleLabel": "General sale Oct 24, 10 AM"
-    },
     {
       "id": "parkjinyoung",
       "name": "Park Jinyoung: CODE# 1st Concert Tour",
       "dates": "2026-12-05",
-      "label": "Dec 5",
+      "label": "Dec 5, 2026",
       "venue": "EVM Convention Center, QC",
       "cat": "Concert",
-      "seller": "TBA",
-      "sale": "TBA",
-      "saleLabel": "Sale date not announced yet"
+      "seller": "TapYourTickets",
+      "sale": "2026-11-01",
+      "saleLabel": "General sale Nov 1, 12 PM"
     },
     {
       "id": "nctwish",
