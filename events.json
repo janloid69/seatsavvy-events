@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "events": [
     {
       "id": "parkjinyoung",
@@ -33,6 +33,17 @@
       "seller": "TBA",
       "sale": "TBA",
       "saleLabel": "Sale date not announced yet"
+    },
+    {
+      "id": "disturbed-2027",
+      "name": "Disturbed: The Sickness & The Greatest Hits Tour",
+      "dates": "2027-05-25",
+      "label": "May 25, 2027",
+      "venue": "SM Mall of Asia Arena, Pasay",
+      "cat": "Concert",
+      "seller": "Ticketmaster PH",
+      "sale": "2026-11-06",
+      "saleLabel": "Artist presale Nov 3 · Mastercard presale Nov 4-5 · Live Nation presale Nov 5 · General sale Nov 6, 12 PM"
     }
   ]
 }
