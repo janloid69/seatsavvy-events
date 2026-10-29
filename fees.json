@@ -1,0 +1,9 @@
+{
+  "default": {
+    "min": 1000,
+    "max": 3000,
+    "per": "ticket",
+    "note": "These are baseline prices and may change without prior notice."
+  },
+  "events": {}
+}
