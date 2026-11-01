@@ -1,17 +1,6 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "events": [
-    {
-      "id": "parkjinyoung",
-      "name": "Park Jinyoung: CODE# 1st Concert Tour",
-      "dates": "2026-12-05",
-      "label": "Dec 5, 2026",
-      "venue": "EVM Convention Center, QC",
-      "cat": "Concert",
-      "seller": "TapYourTickets",
-      "sale": "2026-11-01",
-      "saleLabel": "General sale Nov 1, 12 PM"
-    },
     {
       "id": "nctwish",
       "name": "NCT WISH: INTO THE WISH: Face Our WISH",
