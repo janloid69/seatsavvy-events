@@ -32,7 +32,7 @@
       "cat": "Concert",
       "seller": "Ticketmaster PH",
       "sale": "2026-11-06",
-      "saleLabel": "Artist presale Nov 3 · Mastercard presale Nov 4-5 · Live Nation presale Nov 5 · General sale Nov 6, 12 PM"
+      "saleLabel": "Fan club presale Nov 3 · Presale Nov 5 · General sale Nov 6, 12 PM"
     },
     {
       "id": "katseye-manila-2027",
@@ -55,6 +55,17 @@
       "seller": "Ticketmaster PH",
       "sale": "2026-11-13",
       "saleLabel": "EYEKONS registration until Nov 1 · Member presale Nov 10 · Mastercard presale Nov 11-12 · Artist presale Nov 12 · General sale Nov 13, 12 PM"
+    },
+    {
+      "id": "asia-pop-girl-fest-2027",
+      "name": "ASIA POP GIRL FEST 2027 (BINI, HANA, 4EVE)",
+      "dates": "2027-02-19",
+      "label": "Feb 19, 2027",
+      "venue": "SM Mall of Asia Arena, Pasay",
+      "cat": "Festival",
+      "seller": "TBA",
+      "sale": "TBA",
+      "saleLabel": "Sale date not announced yet"
     }
   ]
 }
