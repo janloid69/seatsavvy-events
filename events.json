@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-04",
   "events": [
     {
       "id": "nctwish",
@@ -32,7 +32,7 @@
       "cat": "Concert",
       "seller": "Ticketmaster PH",
       "sale": "2026-11-06",
-      "saleLabel": "Fan club presale Nov 3 · Presale Nov 5 · General sale Nov 6, 12 PM"
+      "saleLabel": "Artist presale Nov 3 · Mastercard presale Nov 4 · Live Nation presale Nov 5 · General sale Nov 6, 12 PM"
     },
     {
       "id": "katseye-manila-2027",
@@ -43,7 +43,7 @@
       "cat": "Concert",
       "seller": "Ticketmaster PH",
       "sale": "2026-11-13",
-      "saleLabel": "EYEKONS registration until Nov 1 · Member presale Nov 10 · Mastercard presale Nov 11-12 · Artist presale Nov 12 · General sale Nov 13, 12 PM"
+      "saleLabel": "Member presale Nov 10 · Mastercard presale Nov 11-12 · Artist presale Nov 12 · General sale Nov 13, 12 PM"
     },
     {
       "id": "katseye-cebu-2027",
@@ -54,7 +54,7 @@
       "cat": "Concert",
       "seller": "Ticketmaster PH",
       "sale": "2026-11-13",
-      "saleLabel": "EYEKONS registration until Nov 1 · Member presale Nov 10 · Mastercard presale Nov 11-12 · Artist presale Nov 12 · General sale Nov 13, 12 PM"
+      "saleLabel": "Member presale Nov 10 · Mastercard presale Nov 11-12 · Artist presale Nov 12 · General sale Nov 13, 12 PM"
     },
     {
       "id": "asia-pop-girl-fest-2027",
