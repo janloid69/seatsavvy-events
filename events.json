@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-07",
   "events": [
     {
       "id": "nctwish",
@@ -22,17 +22,6 @@
       "seller": "TBA",
       "sale": "TBA",
       "saleLabel": "Sale date not announced yet"
-    },
-    {
-      "id": "disturbed-2027",
-      "name": "Disturbed: The Sickness & The Greatest Hits Tour",
-      "dates": "2027-05-25",
-      "label": "May 25, 2027",
-      "venue": "SM Mall of Asia Arena, Pasay",
-      "cat": "Concert",
-      "seller": "Ticketmaster PH",
-      "sale": "2026-11-06",
-      "saleLabel": "Artist presale Nov 3 · Mastercard presale Nov 4 · Live Nation presale Nov 5 · General sale Nov 6, 12 PM"
     },
     {
       "id": "katseye-manila-2027",
@@ -74,7 +63,7 @@
       "label": "Mar 29, 2027",
       "venue": "SM Mall of Asia Arena, Pasay",
       "cat": "Concert",
-      "seller": "SM Tickets",
+      "seller": "Ticketmaster PH",
       "sale": "2026-11-16",
       "saleLabel": "General sale Nov 16"
     },
@@ -85,7 +74,7 @@
       "label": "Mar 30, 2027",
       "venue": "SM Seaside Cebu Arena, Cebu City",
       "cat": "Concert",
-      "seller": "SM Tickets",
+      "seller": "Ticketmaster PH",
       "sale": "2026-11-16",
       "saleLabel": "General sale Nov 16"
     }
