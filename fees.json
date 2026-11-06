@@ -5,5 +5,18 @@
     "per": "ticket",
     "note": "These are baseline prices and may change without prior notice."
   },
-  "events": {}
+  "events": {
+    "katseye-manila-2027": {
+      "min": 1000,
+      "max": 2500,
+      "per": "ticket",
+      "note": "These are baseline prices and may change without prior notice."
+    },
+    "katseye-cebu-2027": {
+      "min": 1000,
+      "max": 2500,
+      "per": "ticket",
+      "note": "These are baseline prices and may change without prior notice."
+    }
+  }
 }
