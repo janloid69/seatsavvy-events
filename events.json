@@ -14,9 +14,9 @@
     },
     {
       "id": "gilas-cebu-2027",
-      "name": "Gilas Pilipinas vs Jordan & Syria: FIBA World Cup 2027 Asian Qualifiers",
-      "dates": "2027-02-26|2027-03-01",
-      "label": "Feb 26 & Mar 1, 2027",
+      "name": "Gilas Pilipinas vs Jordan: FIBA World Cup 2027 Asian Qualifiers (Cebu)",
+      "dates": "2027-02-26",
+      "label": "Feb 26, 2027",
       "venue": "SM Seaside Arena, Cebu City",
       "cat": "Sports",
       "seller": "TBA",
@@ -63,7 +63,7 @@
       "label": "Mar 29, 2027",
       "venue": "SM Mall of Asia Arena, Pasay",
       "cat": "Concert",
-      "seller": "Ticketmaster PH",
+      "seller": "SM Ticketmaster",
       "sale": "2026-11-16",
       "saleLabel": "General sale Nov 16"
     },
@@ -74,7 +74,7 @@
       "label": "Mar 30, 2027",
       "venue": "SM Seaside Cebu Arena, Cebu City",
       "cat": "Concert",
-      "seller": "Ticketmaster PH",
+      "seller": "SM Ticketmaster",
       "sale": "2026-11-16",
       "saleLabel": "General sale Nov 16"
     }
