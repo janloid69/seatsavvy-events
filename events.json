@@ -1,27 +1,16 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "events": [
     {
-      "id": "nctwish",
-      "name": "NCT WISH: INTO THE WISH: Face Our WISH",
-      "dates": "2027-02-13",
-      "label": "Feb 13, 2027",
+      "id": "doh-kyungsoo-dayoff-2027",
+      "name": "Doh Kyungsoo: DAY OFF Concert Tour (Manila)",
+      "dates": "2027-01-23",
+      "label": "Jan 23, 2027",
       "venue": "Smart Araneta Coliseum, QC",
       "cat": "Concert",
-      "seller": "TBA",
-      "sale": "TBA",
-      "saleLabel": "Sale date not announced yet"
-    },
-    {
-      "id": "gilas-cebu-2027",
-      "name": "Gilas Pilipinas vs Jordan: FIBA World Cup 2027 Asian Qualifiers (Cebu)",
-      "dates": "2027-02-26",
-      "label": "Feb 26, 2027",
-      "venue": "SM Seaside Arena, Cebu City",
-      "cat": "Sports",
-      "seller": "TBA",
-      "sale": "TBA",
-      "saleLabel": "Sale date not announced yet"
+      "seller": "Ticketnet",
+      "sale": "2026-11-20",
+      "saleLabel": "General sale Nov 20, 12 PM"
     },
     {
       "id": "katseye-manila-2027",
@@ -46,12 +35,34 @@
       "saleLabel": "Member presale Nov 10 · Mastercard presale Nov 11-12 · Artist presale Nov 12 · General sale Nov 13"
     },
     {
+      "id": "nctwish",
+      "name": "NCT WISH: INTO THE WISH: Face Our WISH",
+      "dates": "2027-02-13",
+      "label": "Feb 13, 2027",
+      "venue": "Smart Araneta Coliseum, QC",
+      "cat": "Concert",
+      "seller": "TBA",
+      "sale": "TBA",
+      "saleLabel": "Sale date not announced yet"
+    },
+    {
       "id": "asia-pop-girl-fest-2027",
       "name": "ASIA POP GIRL FEST 2027 (BINI, HANA, 4EVE)",
       "dates": "2027-02-19",
       "label": "Feb 19, 2027",
       "venue": "SM Mall of Asia Arena, Pasay",
       "cat": "Festival",
+      "seller": "TBA",
+      "sale": "TBA",
+      "saleLabel": "Sale date not announced yet"
+    },
+    {
+      "id": "gilas-cebu-2027",
+      "name": "Gilas Pilipinas vs Jordan: FIBA World Cup 2027 Asian Qualifiers (Cebu)",
+      "dates": "2027-02-26",
+      "label": "Feb 26, 2027",
+      "venue": "SM Seaside Arena, Cebu City",
+      "cat": "Sports",
       "seller": "TBA",
       "sale": "TBA",
       "saleLabel": "Sale date not announced yet"
