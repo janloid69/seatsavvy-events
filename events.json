@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "events": [
     {
       "id": "doh-kyungsoo-dayoff-2027",
@@ -13,6 +13,17 @@
       "saleLabel": "General sale Nov 20, 12 PM"
     },
     {
+      "id": "jung-haein-meetmethere-2027",
+      "name": "Jung Hae-in: 'Meet Me There' Fan Meeting (Manila)",
+      "dates": "2027-01-31",
+      "label": "Jan 31, 2027",
+      "venue": "PICC Plenary Hall, Pasay",
+      "cat": "Family & Shows",
+      "seller": "Tickelo",
+      "sale": "2026-11-19",
+      "saleLabel": "General sale Nov 19, 10 AM"
+    },
+    {
       "id": "nctwish",
       "name": "NCT WISH: INTO THE WISH: Face Our WISH",
       "dates": "2027-02-13",
@@ -22,6 +33,17 @@
       "seller": "TBA",
       "sale": "TBA",
       "saleLabel": "Sale date not announced yet"
+    },
+    {
+      "id": "hayley-williams-manila-2027",
+      "name": "The Hayley Williams Show (Manila)",
+      "dates": "2027-02-24",
+      "label": "Feb 24, 2027",
+      "venue": "Smart Araneta Coliseum, QC",
+      "cat": "Concert",
+      "seller": "Ticketnet",
+      "sale": "2026-11-20",
+      "saleLabel": "Artist presale Nov 18-19 · General sale Nov 20, 12 PM"
     },
     {
       "id": "gilas-cebu-2027",
@@ -44,6 +66,28 @@
       "seller": "TBA",
       "sale": "TBA",
       "saleLabel": "Sale date not announced yet"
+    },
+    {
+      "id": "tori-kelly-manila-2027",
+      "name": "Tori Kelly: God Must Really Love Me World Tour (Manila)",
+      "dates": "2027-06-05",
+      "label": "Jun 5, 2027",
+      "venue": "The Filinvest Tent, Alabang",
+      "cat": "Concert",
+      "seller": "Tickelo",
+      "sale": "2026-11-20",
+      "saleLabel": "Artist presale Nov 18-19 · General sale Nov 20, 10 AM"
+    },
+    {
+      "id": "tori-kelly-cebu-2027",
+      "name": "Tori Kelly: God Must Really Love Me World Tour (Cebu)",
+      "dates": "2027-06-06",
+      "label": "Jun 6, 2027",
+      "venue": "Mactan Expo, Lapu-Lapu City, Cebu",
+      "cat": "Concert",
+      "seller": "Tickelo",
+      "sale": "2026-11-20",
+      "saleLabel": "Artist presale Nov 18-19 · General sale Nov 20, 10 AM"
     }
   ]
 }
