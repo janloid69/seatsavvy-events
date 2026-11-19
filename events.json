@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "events": [
     {
       "id": "doh-kyungsoo-dayoff-2027",
@@ -11,17 +11,6 @@
       "seller": "Ticketnet",
       "sale": "2026-11-20",
       "saleLabel": "General sale Nov 20, 12 PM"
-    },
-    {
-      "id": "jung-haein-meetmethere-2027",
-      "name": "Jung Hae-in: 'Meet Me There' Fan Meeting (Manila)",
-      "dates": "2027-01-31",
-      "label": "Jan 31, 2027",
-      "venue": "PICC Plenary Hall, Pasay",
-      "cat": "Family & Shows",
-      "seller": "Tickelo",
-      "sale": "2026-11-19",
-      "saleLabel": "General sale Nov 19, 10 AM"
     },
     {
       "id": "nctwish",
@@ -66,6 +55,17 @@
       "seller": "TBA",
       "sale": "TBA",
       "saleLabel": "Sale date not announced yet"
+    },
+    {
+      "id": "moulin-rouge-manila-2027",
+      "name": "Moulin Rouge! The Musical (Manila)",
+      "dates": "2027-05-04|2027-05-30",
+      "label": "May 4-30, 2027",
+      "venue": "The Theatre at Solaire, Parañaque",
+      "cat": "Family & Shows",
+      "seller": "TicketWorld",
+      "sale": "2026-12-07",
+      "saleLabel": "UnionBank presale Dec 1-4 · Waitlist sale Dec 5 · General sale Dec 7"
     },
     {
       "id": "tori-kelly-manila-2027",
