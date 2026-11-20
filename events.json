@@ -2,15 +2,15 @@
   "updated": "2026-11-20",
   "events": [
     {
-      "id": "doh-kyungsoo-dayoff-2027",
-      "name": "Doh Kyungsoo: DAY OFF Concert Tour (Manila)",
-      "dates": "2027-01-23",
-      "label": "Jan 23, 2027",
-      "venue": "Smart Araneta Coliseum, QC",
+      "id": "carmelle-unleashed-2027",
+      "name": "CARMELLE: Unleashed! Concert",
+      "dates": "2027-01-29",
+      "label": "Jan 29, 2027",
+      "venue": "New Frontier Theater, QC",
       "cat": "Concert",
-      "seller": "Ticketnet",
-      "sale": "2026-11-20",
-      "saleLabel": "General sale Nov 20, 12 PM"
+      "seller": "TBA",
+      "sale": "TBA",
+      "saleLabel": "Sale date not announced yet"
     },
     {
       "id": "katseye-manila-day2-2027",
@@ -21,7 +21,29 @@
       "cat": "Concert",
       "seller": "Ticketmaster PH",
       "sale": "2026-11-23",
-      "saleLabel": "Weverse presale Nov 20, 12 PM · Mastercard presale Nov 23, 10 AM · General sale Nov 23, 2 PM · Max 4 tickets per transaction"
+      "saleLabel": "Weverse presale Nov 20, 12 PM · Mastercard presale Nov 23, 10 AM-12 PM · General sale Nov 23, 2 PM · Max 4 tickets per transaction"
+    },
+    {
+      "id": "boyce-avenue-cdo-2027",
+      "name": "Boyce Avenue: Valentine's Tour 2027 (Cagayan de Oro)",
+      "dates": "2027-02-11",
+      "label": "Feb 11, 2027",
+      "venue": "The Atrium, Limketkai Mall, Cagayan de Oro",
+      "cat": "Concert",
+      "seller": "Ticketmelon",
+      "sale": "2026-11-28",
+      "saleLabel": "General sale Nov 28, 12 PM"
+    },
+    {
+      "id": "boyce-avenue-davao-2027",
+      "name": "Boyce Avenue: Valentine's Tour 2027 (Davao)",
+      "dates": "2027-02-13",
+      "label": "Feb 13, 2027",
+      "venue": "SMX Convention Center, Davao",
+      "cat": "Concert",
+      "seller": "Ticketmelon",
+      "sale": "2026-11-28",
+      "saleLabel": "General sale Nov 28, 12 PM"
     },
     {
       "id": "nctwish",
@@ -35,15 +57,37 @@
       "saleLabel": "Sale date not announced yet"
     },
     {
-      "id": "hayley-williams-manila-2027",
-      "name": "The Hayley Williams Show (Manila)",
-      "dates": "2027-02-24",
-      "label": "Feb 24, 2027",
+      "id": "boyce-avenue-manila-2027",
+      "name": "Boyce Avenue: Valentine's Tour 2027 (Manila)",
+      "dates": "2027-02-14",
+      "label": "Feb 14, 2027",
       "venue": "Smart Araneta Coliseum, QC",
       "cat": "Concert",
       "seller": "Ticketnet",
-      "sale": "2026-11-20",
-      "saleLabel": "Artist presale Nov 18-19 · General sale Nov 20, 12 PM"
+      "sale": "2026-11-28",
+      "saleLabel": "General sale Nov 28, 12 PM"
+    },
+    {
+      "id": "boyce-avenue-cebu-2027",
+      "name": "Boyce Avenue: Valentine's Tour 2027 (Cebu)",
+      "dates": "2027-02-16",
+      "label": "Feb 16, 2027",
+      "venue": "Waterfront Hotel Ballroom, Cebu",
+      "cat": "Concert",
+      "seller": "Ticketmelon",
+      "sale": "2026-11-28",
+      "saleLabel": "General sale Nov 28, 12 PM"
+    },
+    {
+      "id": "sleep-theory-manila-2027",
+      "name": "Sleep Theory (Manila)",
+      "dates": "2027-02-18",
+      "label": "Feb 18, 2027",
+      "venue": "Skydome, SM North EDSA, QC",
+      "cat": "Concert",
+      "seller": "SM Tickets",
+      "sale": "2026-11-28",
+      "saleLabel": "General sale Nov 28, 12 PM"
     },
     {
       "id": "gilas-cebu-2027",
@@ -68,6 +112,17 @@
       "saleLabel": "Sale date not announced yet"
     },
     {
+      "id": "exo-kase-silent-city-manila-2027",
+      "name": "EXO-KASE (Kai & Sehun): SILENT CITY Fancon Tour (Manila)",
+      "dates": "2027-03-21",
+      "label": "Mar 21, 2027",
+      "venue": "Smart Araneta Coliseum, QC",
+      "cat": "Concert",
+      "seller": "TBA",
+      "sale": "TBA",
+      "saleLabel": "Sale date not announced yet"
+    },
+    {
       "id": "moulin-rouge-manila-2027",
       "name": "Moulin Rouge! The Musical (Manila)",
       "dates": "2027-05-04|2027-05-30",
@@ -76,29 +131,18 @@
       "cat": "Family & Shows",
       "seller": "TicketWorld",
       "sale": "2026-12-07",
-      "saleLabel": "UnionBank presale Dec 1-4 · Waitlist sale Dec 5 · General sale Dec 7"
+      "saleLabel": "UnionBank presale Dec 1-4 · Waitlist sale Dec 5, 10 AM · General sale Dec 7"
     },
     {
-      "id": "tori-kelly-manila-2027",
-      "name": "Tori Kelly: God Must Really Love Me World Tour (Manila)",
-      "dates": "2027-06-05",
-      "label": "Jun 5, 2027",
+      "id": "peter-hook-manila-2027",
+      "name": "Peter Hook & The Light (Manila)",
+      "dates": "2027-05-13",
+      "label": "May 13, 2027",
       "venue": "The Filinvest Tent, Alabang",
       "cat": "Concert",
-      "seller": "Tickelo",
-      "sale": "2026-11-20",
-      "saleLabel": "Artist presale Nov 18-19 · General sale Nov 20, 10 AM"
-    },
-    {
-      "id": "tori-kelly-cebu-2027",
-      "name": "Tori Kelly: God Must Really Love Me World Tour (Cebu)",
-      "dates": "2027-06-06",
-      "label": "Jun 6, 2027",
-      "venue": "Mactan Expo, Lapu-Lapu City, Cebu",
-      "cat": "Concert",
-      "seller": "Tickelo",
-      "sale": "2026-11-20",
-      "saleLabel": "Artist presale Nov 18-19 · General sale Nov 20, 10 AM"
+      "seller": "TicketWorld / Ticketmelon",
+      "sale": "TBA",
+      "saleLabel": "Sale date not announced yet"
     }
   ]
 }
