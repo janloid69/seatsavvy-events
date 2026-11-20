@@ -13,6 +13,17 @@
       "saleLabel": "General sale Nov 20, 12 PM"
     },
     {
+      "id": "katseye-manila-day2-2027",
+      "name": "KATSEYE: The WILDWORLD Tour (Manila, Day 2)",
+      "dates": "2027-01-30",
+      "label": "Jan 30, 2027",
+      "venue": "SM Mall of Asia Arena, Pasay",
+      "cat": "Concert",
+      "seller": "Ticketmaster PH",
+      "sale": "2026-11-23",
+      "saleLabel": "Weverse presale Nov 20, 12 PM · Mastercard presale Nov 23, 10 AM · General sale Nov 23, 2 PM · Max 4 tickets per transaction"
+    },
+    {
       "id": "nctwish",
       "name": "NCT WISH: INTO THE WISH: Face Our WISH",
       "dates": "2027-02-13",

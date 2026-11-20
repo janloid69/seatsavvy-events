@@ -17,6 +17,12 @@
       "max": 2500,
       "per": "ticket",
       "note": "These are baseline prices and may change without prior notice."
+    },
+    "katseye-manila-day2-2027": {
+      "min": 1000,
+      "max": 2500,
+      "per": "ticket",
+      "note": "These are baseline prices and may change without prior notice."
     }
   }
 }
