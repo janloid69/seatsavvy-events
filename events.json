@@ -143,6 +143,17 @@
       "seller": "TicketWorld / Ticketmelon",
       "sale": "TBA",
       "saleLabel": "Sale date not announced yet"
+    },
+    {
+      "id": "sunset-boulevard-manila-2027",
+      "name": "Sunset Boulevard (Manila)",
+      "dates": "2027-08-18|2027-09-12",
+      "label": "Aug 18-Sep 12, 2027",
+      "venue": "Carlos P. Romulo Auditorium, RCBC Plaza, Makati",
+      "cat": "Family & Shows",
+      "seller": "TicketWorld",
+      "sale": "TBA",
+      "saleLabel": "Sale date not announced yet"
     }
   ]
 }
