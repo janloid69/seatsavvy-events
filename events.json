@@ -24,6 +24,17 @@
       "saleLabel": "Sale date not announced yet"
     },
     {
+      "id": "jason-scheff-manila-2027",
+      "name": "Jason Scheff: The Music of Chicago (Manila)",
+      "dates": "2027-02-10",
+      "label": "Feb 10, 2027",
+      "venue": "Smart Araneta Coliseum, QC",
+      "cat": "Concert",
+      "seller": "TicketNet",
+      "sale": "2026-11-27",
+      "saleLabel": "General sale Nov 27, 12 PM"
+    },
+    {
       "id": "boyce-avenue-cdo-2027",
       "name": "Boyce Avenue: Valentine's Tour 2027 (Cagayan de Oro)",
       "dates": "2027-02-11",
@@ -143,6 +154,17 @@
       "seller": "TicketWorld / Ticketmelon",
       "sale": "TBA",
       "saleLabel": "Sale date not announced yet"
+    },
+    {
+      "id": "craig-david-manila-2027",
+      "name": "Craig David: Born To Do It World Tour (Manila)",
+      "dates": "2027-05-31",
+      "label": "May 31, 2027",
+      "venue": "Smart Araneta Coliseum, QC",
+      "cat": "Concert",
+      "seller": "TicketNet",
+      "sale": "2026-12-05",
+      "saleLabel": "General sale Dec 5, 12 PM"
     },
     {
       "id": "sunset-boulevard-manila-2027",
