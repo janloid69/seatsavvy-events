@@ -24,6 +24,17 @@
       "saleLabel": "Weverse presale Nov 20, 12 PM · Mastercard presale Nov 23, 10 AM-12 PM · General sale Nov 23, 2 PM · Max 4 tickets per transaction"
     },
     {
+      "id": "iu-bulacan-2027",
+      "name": "IU: 2027 IU World Tour Concert (Bulacan)",
+      "dates": "2027-01-30|2027-01-31",
+      "label": "Jan 30-31, 2027",
+      "venue": "Philippine Sports Stadium, Bulacan",
+      "cat": "Concert",
+      "seller": "TBA",
+      "sale": "TBA",
+      "saleLabel": "Sale date not announced yet"
+    },
+    {
       "id": "boyce-avenue-cdo-2027",
       "name": "Boyce Avenue: Valentine's Tour 2027 (Cagayan de Oro)",
       "dates": "2027-02-11",
